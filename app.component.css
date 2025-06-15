@@ -11,4 +11,13 @@
  #b1{
    margin-left: 45%;
  }
+@media screen and (max-width:600px){
+   .b2{
+   margin-left:15%;
+ }
+ .b3{
+   height: 30px;
+   width:80px;
+ }
+}
  
